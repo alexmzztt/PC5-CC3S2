@@ -48,13 +48,29 @@ Luego guardamos el contenedor
 
 ### Metodo 3
 
- 
+Descargamos 
 
+![](assets/11.jpg)
 
+Creamos el Dockerfile
 
+![](assets/12.jpg)
 
+Construimos la imagen
 
+![](assets/13.jpg)
 
+Comparamos el tamaño de la imagen
+
+![](assets/14.jpg)
+
+Ahora la probamos, pero primero detenemos y eliminamos el anterior contenedor alpine-test
+
+![](assets/15.jpg)
+
+Luego la probamos y verificamos usando el comando "cat /etc/*release"
+
+![](assets/16.jpg)
 
 
 

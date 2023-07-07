@@ -72,6 +72,70 @@ Luego la probamos y verificamos usando el comando "cat /etc/*release"
 
 ![](assets/16.jpg)
 
+## Pregunta 3
+
+Pregunta 1
+
+![](assets/18.jpg)
+
+Agregando mustache
+
+![](assets/17.jpg)
+
+Pregunta 2
+
+Creamos el index.mustache
+
+![](assets/19.jpg)
+
+Ejecutamos y nos dirigimos a localhost:8080 en el navegador
+
+![](assets/20.jpg)
+
+Ajustamos el ControladorBase
+
+![](assets/21.jpg)
+
+Editamos el index.mustache
+
+![](assets/22.jpg)
+
+Pregunta 3
+
+Ejecutamos y vamos a localhost:8080 en el navegador
+
+![](assets/23.jpg)
+
+Pregunta 4
+
+Creamos la clase Video.java
+
+![](assets/24.jpg)
+
+Pregunta 5
+
+Creamos VideoService.java
+
+![](assets/25.jpg)
+
+Pregunta 6
+
+![](assets/26.jpg)
+
+Pregunta 7 y 8
+
+![](assets/27.jpg)
+
+Pregunta 9
+
+![](assets/28.jpg)
+
+![](assets/29.jpg)
+
+
+
+
+
 ## Pregunta 4
 
 La automatización de infraestructura en la arquitectura de microservicios se refiere 
